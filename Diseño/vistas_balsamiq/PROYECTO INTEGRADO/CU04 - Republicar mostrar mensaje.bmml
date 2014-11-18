@@ -1,0 +1,248 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1104" measuredH="750" mockupW="1104" mockupH="749">
+  <controls>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="176" y="1" w="928" h="749" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Sistema%20Microblogging%0Ahttp%3A//localhost%3A8080/SistemaMicroblogging/mitabl%F3n</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Canvas" x="176" y="85" w="928" h="76" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>CU10%20-%20Listar%20leer%20mostrar%20mensajes%26bm%3BCU10%20-%20Listar%20leer%20mostrar%20mensajes.bmml%26bm%3BCU10%20-%20Listar%20leer%20mostrar%20mensajes.bmml%26bm%3BCU10%20-%20Listar%20leer%20mostrar%20mensajes.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22176%2C84%2C1104%2C160%22%20href%3D%22CU10%2520-%2520Listar%2520leer%2520mostrar%2520mensajes.bmml%22%20alt%3D%22CU10%20-%20Listar%20leer%20mostrar%20mensajes%22%20id%3D%223%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Canvas" x="176" y="691" w="924" h="29" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>1</backgroundAlpha>
+        <value>0</value>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Title" x="178" y="92" w="920" h="-1" measuredW="409" measuredH="43" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>CU10%20-%20Listar%20leer%20mostrar%20mensajes%26bm%3BCU10%20-%20Listar%20leer%20mostrar%20mensajes.bmml%26bm%3BCU10%20-%20Listar%20leer%20mostrar%20mensajes.bmml%26bm%3BCU10%20-%20Listar%20leer%20mostrar%20mensajes.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22178%2C91%2C1098%2C134%22%20href%3D%22CU10%2520-%2520Listar%2520leer%2520mostrar%2520mensajes.bmml%22%20alt%3D%22CU10%20-%20Listar%20leer%20mostrar%20mensajes%22%20id%3D%2214%22/%3E</map>
+        <markup>true</markup>
+        <text>Sistema%20Microblogging</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Image" x="183" y="92" w="54" h="62" measuredW="77" measuredH="79" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Label" x="331" y="97" w="53" h="-1" measuredW="46" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Usuario</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Label" x="255" y="97" w="76" h="-1" measuredW="66" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Bienvenido%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="88" controlTypeID="com.balsamiq.mockups::FieldSet" x="347" y="162" w="740" h="101" measuredW="200" measuredH="170" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>15658734</color>
+        <text>Usuario%20escribe%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="90" controlTypeID="com.balsamiq.mockups::TextArea" x="357" y="175" w="730" h="52" measuredW="200" measuredH="140" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <customData>Comentario%2520de%2520usuario</customData>
+        <customID>comentario_user</customID>
+        <href>CU02%20-%20Publicar%20mostrar%20mensaje%26bm%3BCU02%20-%20Publicar%20mostrar%20mensaje.bmml%26bm%3BCU02%20-%20Publicar%20mostrar%20mensaje.bmml%26bm%3BCU02%20-%20Publicar%20mostrar%20mensaje.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22357%2C174%2C1087%2C226%22%20href%3D%22CU02%2520-%2520Publicar%2520mostrar%2520mensaje.bmml%22%20alt%3D%22CU02%20-%20Publicar%20mostrar%20mensaje%22%20id%3D%2290%22/%3E</map>
+        <state>focused</state>
+        <text>%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="91" controlTypeID="com.balsamiq.mockups::Button" x="999" y="228" w="75" h="25" measuredW="70" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Publicar</text>
+      </controlProperties>
+    </control>
+    <control controlID="92" controlTypeID="com.balsamiq.mockups::FieldSet" x="347" y="266" w="740" h="101" measuredW="200" measuredH="170" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>14540253</color>
+        <text>Usuario1%20escribi%F3%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="94" controlTypeID="com.balsamiq.mockups::Button" x="1006" y="332" w="75" h="25" measuredW="70" measuredH="27" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Eliminar</text>
+      </controlProperties>
+    </control>
+    <control controlID="95" controlTypeID="com.balsamiq.mockups::Button" x="921" y="332" w="90" h="25" measuredW="87" measuredH="27" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Responder</text>
+      </controlProperties>
+    </control>
+    <control controlID="96" controlTypeID="com.balsamiq.mockups::Button" x="844" y="332" w="80" h="25" measuredW="86" measuredH="27" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>CU04%20-%20Validar%20-%20republicar%20mostrar%20mensaje%26bm%3BCU04%20-%20Validar%20-%20republicar%20mostrar%20mensaje.bmml%26bm%3BCU04%20-%20Validar%20-%20republicar%20mostrar%20mensaje.bmml%26bm%3BCU04%20-%20Validar%20-%20republicar%20mostrar%20mensaje.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22844%2C331%2C924%2C356%22%20href%3D%22CU04%2520-%2520Validar%2520-%2520republicar%2520mostrar%2520mensaje.bmml%22%20alt%3D%22CU04%20-%20Validar%20-%20republicar%20mostrar%20mensaje%22%20id%3D%2296%22/%3E</map>
+        <text>Republicar</text>
+      </controlProperties>
+    </control>
+    <control controlID="118" controlTypeID="com.balsamiq.mockups::Label" x="353" y="328" w="-1" h="-1" measuredW="38" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Fecha%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="119" controlTypeID="com.balsamiq.mockups::FieldSet" x="347" y="368" w="740" h="212" measuredW="200" measuredH="170" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>14001853</color>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="120" controlTypeID="com.balsamiq.mockups::FieldSet" x="352" y="378" w="730" h="91" measuredW="200" measuredH="170" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>14540253</color>
+        <text>Usuario2%20escribio%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="125" controlTypeID="com.balsamiq.mockups::Label" x="359" y="440" w="-1" h="-1" measuredW="94" measuredH="21" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Fecha%3A%2002/11/14</text>
+      </controlProperties>
+    </control>
+    <control controlID="127" controlTypeID="com.balsamiq.mockups::FieldSet" x="352" y="469" w="730" h="104" measuredW="200" measuredH="170" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>14540253</color>
+        <text>Usuario%20escribe%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="128" controlTypeID="com.balsamiq.mockups::TextArea" x="357" y="482" w="720" h="54" measuredW="200" measuredH="140" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>15658734</color>
+        <customData>Comentario%2520de%2520usuario</customData>
+        <customID>comentario_user</customID>
+        <text>Usuario%20escribi%F3</text>
+      </controlProperties>
+    </control>
+    <control controlID="130" controlTypeID="com.balsamiq.mockups::Button" x="1005" y="436" w="75" h="25" measuredW="70" measuredH="27" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Eliminar</text>
+      </controlProperties>
+    </control>
+    <control controlID="131" controlTypeID="com.balsamiq.mockups::Button" x="921" y="436" w="90" h="25" measuredW="87" measuredH="27" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Responder</text>
+      </controlProperties>
+    </control>
+    <control controlID="132" controlTypeID="com.balsamiq.mockups::Button" x="844" y="436" w="80" h="25" measuredW="86" measuredH="27" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Republicar</text>
+      </controlProperties>
+    </control>
+    <control controlID="133" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="1087" y="166" w="-1" h="525" measuredW="16" measuredH="100" zOrder="23" locked="false" isInGroup="-1"/>
+    <control controlID="134" controlTypeID="com.balsamiq.mockups::FieldSet" x="347" y="585" w="740" h="97" measuredW="200" measuredH="170" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>14540253</color>
+        <text>Usuario1%20escribi%F3%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="135" controlTypeID="com.balsamiq.mockups::Button" x="1006" y="651" w="75" h="25" measuredW="70" measuredH="27" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Eliminar</text>
+      </controlProperties>
+    </control>
+    <control controlID="136" controlTypeID="com.balsamiq.mockups::Button" x="921" y="651" w="90" h="25" measuredW="87" measuredH="27" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Responder</text>
+      </controlProperties>
+    </control>
+    <control controlID="137" controlTypeID="com.balsamiq.mockups::Button" x="844" y="651" w="80" h="25" measuredW="86" measuredH="27" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Republicar</text>
+      </controlProperties>
+    </control>
+    <control controlID="138" controlTypeID="com.balsamiq.mockups::FieldSet" x="352" y="591" w="730" h="59" measuredW="200" measuredH="170" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>15658734</color>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="139" controlTypeID="com.balsamiq.mockups::Button" x="999" y="536" w="75" h="25" measuredW="70" measuredH="27" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Eliminar</text>
+      </controlProperties>
+    </control>
+    <control controlID="140" controlTypeID="com.balsamiq.mockups::Button" x="915" y="536" w="90" h="25" measuredW="87" measuredH="27" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Responder</text>
+      </controlProperties>
+    </control>
+    <control controlID="141" controlTypeID="com.balsamiq.mockups::Button" x="838" y="536" w="80" h="25" measuredW="86" measuredH="27" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Republicar</text>
+      </controlProperties>
+    </control>
+    <control controlID="142" controlTypeID="com.balsamiq.mockups::TextArea" x="357" y="389" w="720" h="47" measuredW="200" measuredH="140" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>15658734</color>
+        <customData>Comentario%2520de%2520usuario</customData>
+        <customID>comentario_user</customID>
+        <text>Usuario%20seguido%20escribi%F3</text>
+      </controlProperties>
+    </control>
+    <control controlID="143" controlTypeID="com.balsamiq.mockups::Label" x="359" y="536" w="97" h="-1" measuredW="90" measuredH="21" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Fecha%3A%2010/11/14</text>
+      </controlProperties>
+    </control>
+    <control controlID="146" controlTypeID="com.balsamiq.mockups::Title" x="243" y="102" w="795" h="-1" measuredW="409" measuredH="43" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>CU10%20-%20Listar%20leer%20mostrar%20mensajes%26bm%3BCU10%20-%20Listar%20leer%20mostrar%20mensajes.bmml%26bm%3BCU10%20-%20Listar%20leer%20mostrar%20mensajes.bmml%26bm%3BCU10%20-%20Listar%20leer%20mostrar%20mensajes.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22243%2C101%2C1038%2C144%22%20href%3D%22CU10%2520-%2520Listar%2520leer%2520mostrar%2520mensajes.bmml%22%20alt%3D%22CU10%20-%20Listar%20leer%20mostrar%20mensajes%22%20id%3D%22146%22/%3E</map>
+        <text>Sistema%20Microblogging</text>
+      </controlProperties>
+    </control>
+    <control controlID="149" controlTypeID="com.balsamiq.mockups::Label" x="1048" y="31" w="-1" h="-1" measuredW="34" measuredH="21" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Serch</text>
+      </controlProperties>
+    </control>
+    <control controlID="150" controlTypeID="com.balsamiq.mockups::Label" x="275" y="124" w="37" h="-1" measuredW="28" measuredH="21" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>CU00%20-%2000Registrar%20acceso%20de%20usuario%26bm%3BCU00%20-%2000Registrar%20acceso%20de%20usuario.bmml%26bm%3BCU00%20-%2000Registrar%20acceso%20de%20usuario.bmml%26bm%3BCU00%20-%2000Registrar%20acceso%20de%20usuario.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22275%2C123%2C312%2C144%22%20href%3D%22CU00%2520-%252000Registrar%2520acceso%2520de%2520usuario.bmml%22%20alt%3D%22CU00%20-%2000Registrar%20acceso%20de%20usuario%22%20id%3D%22150%22/%3E</map>
+        <text>Salir</text>
+      </controlProperties>
+    </control>
+    <control controlID="152" controlTypeID="com.balsamiq.mockups::Accordion" x="0" y="428" w="176" h="186" measuredW="150" measuredH="186" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>CU10%20-%2000Mensionar%20usuario%20Listar%20leer%20mostrar%20mensajes%26bm%3BCU10%20-%2000Mensionar%20usuario%20Listar%20leer%20mostrar%20mensajes.bmml%26bm%3BCU10%20-%2000Mensionar%20usuario%20Listar%20leer%20mostrar%20mensajes.bmml%26bm%3BCU10%20-%2000Mensionar%20usuario%20Listar%20leer%20mostrar%20mensajes.bmml%2C%2C%2C%2C%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C427%2C176%2C457%22%20href%3D%22CU10%2520-%252000Mensionar%2520usuario%2520Listar%2520leer%2520mostrar%2520mensajes.bmml%22%20alt%3D%22CU10%20-%2000Mensionar%20usuario%20Listar%20leer%20mostrar%20mensajes%22%20id%3D%22152%22/%3E</map>
+        <text>Mencionar%20usuario%0AItem%20Two%0A-%20Sub-Item%202.1%0A-%20Sub-Item%202.2%0AItem%20Three%0AItem%20Four</text>
+      </controlProperties>
+    </control>
+    <control controlID="153" controlTypeID="com.balsamiq.mockups::TextArea" x="357" y="280" w="730" h="52" measuredW="200" measuredH="140" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <customData>Comentario%2520de%2520usuario</customData>
+        <customID>comentario_user</customID>
+        <href>CU02%20-%20Publicar%20mostrar%20mensaje%26bm%3BCU02%20-%20Publicar%20mostrar%20mensaje.bmml%26bm%3BCU02%20-%20Publicar%20mostrar%20mensaje.bmml%26bm%3BCU02%20-%20Publicar%20mostrar%20mensaje.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22357%2C279%2C1087%2C331%22%20href%3D%22CU02%2520-%2520Publicar%2520mostrar%2520mensaje.bmml%22%20alt%3D%22CU02%20-%20Publicar%20mostrar%20mensaje%22%20id%3D%22153%22/%3E</map>
+        <state>focused</state>
+        <text>En%20el%20cine%20con%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20viendo%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="154" controlTypeID="com.balsamiq.mockups::Link" x="451" y="285" w="-1" h="-1" measuredW="114" measuredH="19" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>@nombredeusuario</text>
+      </controlProperties>
+    </control>
+    <control controlID="155" controlTypeID="com.balsamiq.mockups::Accordion" x="183" y="158" w="163" h="534" measuredW="150" measuredH="294" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>%2C%2CCU07%20-%20Listar%20SEGUIR%20usuarios%20empleados%26bm%3BCU07%20-%20Listar%20SEGUIR%20usuarios%20empleados.bmml%26bm%3BCU07%20-%20Listar%20SEGUIR%20usuarios%20empleados.bmml%26bm%3BCU07%20-%20Listar%20SEGUIR%20usuarios%20empleados.bmml%2CCU07%20-%20Listar%20invitar%20usuarios%20empleados%26bm%3BCU07%20-%20Listar%20invitar%20usuarios%20empleados.bmml%26bm%3BCU07%20-%20Listar%20invitar%20usuarios%20empleados.bmml%26bm%3BCU07%20-%20Listar%20invitar%20usuarios%20empleados.bmml%2C%2CCU09%20-%20Listar%20usaurios%20seguidos%26bm%3BCU09%20-%20Listar%20usaurios%20seguidos.bmml%26bm%3BCU09%20-%20Listar%20usaurios%20seguidos.bmml%26bm%3BCU09%20-%20Listar%20usaurios%20seguidos.bmml%2CCU08%20-%20Listar%20usuarios%20seguidores%26bm%3BCU08%20-%20Listar%20usuarios%20seguidores.bmml%26bm%3BCU08%20-%20Listar%20usuarios%20seguidores.bmml%26bm%3BCU08%20-%20Listar%20usuarios%20seguidores.bmml%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22183%2C211%2C346%2C241%22%20href%3D%22CU07%2520-%2520Listar%2520SEGUIR%2520usuarios%2520empleados.bmml%22%20alt%3D%22CU07%20-%20Listar%20SEGUIR%20usuarios%20empleados%22%20id%3D%22155%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22183%2C238%2C346%2C268%22%20href%3D%22CU07%2520-%2520Listar%2520invitar%2520usuarios%2520empleados.bmml%22%20alt%3D%22CU07%20-%20Listar%20invitar%20usuarios%20empleados%22%20id%3D%22155%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22183%2C292%2C346%2C322%22%20href%3D%22CU09%2520-%2520Listar%2520usaurios%2520seguidos.bmml%22%20alt%3D%22CU09%20-%20Listar%20usaurios%20seguidos%22%20id%3D%22155%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22183%2C319%2C346%2C349%22%20href%3D%22CU08%2520-%2520Listar%2520usuarios%2520seguidores.bmml%22%20alt%3D%22CU08%20-%20Listar%20usuarios%20seguidores%22%20id%3D%22155%22/%3E</map>
+        <selectedIndex>-1</selectedIndex>
+        <text>hacer%20algo%0Ahacer%20algo%0ASeguir%20empleado%0AInvitar%20empleados%0AListar%20empleados%0AListar%20Seguidos%0AListar%20Seguidores%0Ahacer%20algo</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
